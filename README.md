@@ -1,4 +1,4 @@
-# GitTogether Bengaluru 🚀
+# GitTogether Angola 🚀
 
 Join us for GitTogether Angola – the ultimate gathering for developers in and around the Repository. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level. 
 
