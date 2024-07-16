@@ -42,4 +42,4 @@ We strive to create a welcoming and inclusive environment for everyone. Please b
 * **Follow us on social media:** (Add links to Twitter, etc., if applicable) 
 * **Join our community discussions:** (Add link if using Discord/Slack/etc.)
 
-Let's build a stronger open-source community in Bengaluru, together! 
+Let's build a stronger open-source community in Angola, together! 
