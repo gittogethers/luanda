@@ -1,12 +1,12 @@
 # GitTogether Bengaluru 🚀
 
-Join us for GitTogether Bengaluru – the ultimate gathering for developers in and around Bengaluru, India. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level. India is expected to become the largest developer community on GitHub by 2027. Join us for this community initiative, shape the future of software, and connect with India's brightest minds in technology.
+Join us for GitTogether Angola – the ultimate gathering for developers in and around the Repository. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level. 
 
 ## Upcoming Events ✨
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-07-20 | [Exploring GitHub Actions for CI/CD](https://github.com/gittogethers/GitTogether-Bengaluru-Test/tree/main/2024-07-20-GitHub-Actions-For-CI-CD) | [Register Here] | 
+| 2024-07-20 | []() | [Register Here] | 
 
 ## Past Events 
 
