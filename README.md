@@ -1,18 +1,12 @@
 # GitTogether Angola 🚀
 
-Join us for GitTogether Angola – the ultimate gathering for developers in and around the Repository. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of your skill level. 
+Join us for GitTogether Luanda – the ultimate gathering for developers in Luanda and around the Repository. Powered by GitHub and led by passionate GitHub Community Leaders, our events cover diverse topics such as AI, Open Source, Security, and more. Engage in discussions, workshops, and networking opportunities with like-minded peers, regardless of skill level. 
 
 ## Upcoming Events ✨
 
 | Date | Title | Registration Link |
 |---|---|---|
-| 2024-07-20 | []() | [Register Here] | 
-
-## Past Events 
-
-| Date | Title | Resources |
-|---|---|---|
-| YYYY-MM-DD | Event Title | [Link to Slides/Recording] | 
+| 2024-08-23 | []() | [Register Here] | 
 
 ## How to Get Involved
 
@@ -21,9 +15,9 @@ Join us for GitTogether Angola – the ultimate gathering for developers in and 
 1. Find an open "Call for Speakers" on the event's page.
 2. Follow the instructions for submitting your talk proposal.
 
-**Want to attend?**
+** Would you like to attend?**
 
-1. Browse upcoming events.
+1. Browse upcoming events [here](https://www.meetup.com/gittogether-luanda/).
 2. Register via the provided registration links.
 
 **Have feedback, want to suggest a topic, or contribute in other ways?**
@@ -40,6 +34,6 @@ We strive to create a welcoming and inclusive environment for everyone. Please b
 ## Stay Connected! 
 
 * **Follow us on social media:** (Add links to Twitter, etc., if applicable) 
-* **Join our community discussions:** (Add link if using Discord/Slack/etc.)
+* **Join our community:** [meetup](https://www.meetup.com/gittogether-luanda/)
 
-Let's build a stronger open-source community in Angola, together! 
+Let's build a stronger open-source community in Luanda together! 
