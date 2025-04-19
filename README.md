@@ -7,6 +7,7 @@ Join us for GitTogether Luanda – the ultimate gathering for developers in Luan
 | Date | Title | Registration Link |
 |---|---|---|
 | 2024-08-23 | []() | [Register Here] | 
+| 2025-05-03 | Maio Meetup | [Register Here](https://www.meetup.com/gittogether-luanda/events/307368097/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | 
 
 ## How to Get Involved
 
